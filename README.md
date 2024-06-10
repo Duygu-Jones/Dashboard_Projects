@@ -1,12 +1,63 @@
-# Tableau / Power Bi
+# Dashboard Projects
+## Tableau / Power Bi
 
-</br>
+Welcome to the Dashboard Projects repository! 
 
-Tableau Public : [https://public.tableau.com/app/discover](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+This repository contains various dashboard projects created using Tableau and Power BI.<br>
+Each folder includes different projects, showcasing the use of these powerful tools for data visualization and analysis.<br>
 
-</br>
+I hope these projects inspire and provide valuable insights to others interested in data analysis. <br>
+Feel free to explore the repository and leave your feedback!<br>
 
-I hope these projects inspire and provide valuable insights to others interested in data analysis. Feel free to explore the repository and leave your feedback!
-</br>
+## Table of Contents
 
-<img src="https://www.tableau.com/sites/default/files/2022-08/Products_Reader_Hero.png" width="1920" />
+- [Contents](#contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [About Me](#about-me)
+- [License](#license)
+
+
+## Contents
+
+- **POWER_BI**: Contains various Power BI dashboard projects.
+- **TABLEAU**: Contains various Tableau dashboard projects.
+
+## Installation
+
+To view and interact with the dashboards locally, follow these steps:
+
+Clone the repository to your local machine:
+
+    git clone https://github.com/Duygu-Jones/Dashboard_Projects.git
+
+## Usage
+
+Each project is contained within its folder and includes:
+
+- The dashboard file (e.g., `.twb` or `.twbx` for Tableau, `.pbix` for Power BI).
+- The dataset(s) used in the analysis.
+- A README file detailing the project's objective, methodology, and findings.
+
+To view the Tableau dashboards online, visit my Tableau Public profile:
+
+- **Tableau Public Profile**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+
+## About Me
+
+Hi, I'm Duygu Jones, a Data Scientist passionate about data visualization and analysis. This repository is a compilation of my dashboard projects using Tableau and Power BI.<br>
+You can find more about me and my work through the following links:
+
+- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
+- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
+- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+Feel free to connect with me!
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
