@@ -1,4 +1,5 @@
 # Dashboard Projects
+
 ## Tableau / Power Bi
 
 Welcome to the Dashboard Projects repository! 
@@ -46,7 +47,8 @@ To view the Tableau dashboards online, visit my Tableau Public profile:
 
 ## About Me
 
-Hi, I'm Duygu Jones, a Data Scientist passionate about data visualization and analysis. This repository is a compilation of my dashboard projects using Tableau and Power BI.<br>
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
+
 You can find more about me and my work through the following links:
 
 - **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
@@ -56,8 +58,19 @@ You can find more about me and my work through the following links:
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 - **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
-Feel free to connect with me!
+Feel free to connect with me!<br>
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+🎯Boost your exploratory data analysis skills,<br> 
+💡Share your insights with the community, <br>
+👩‍💻Become a data wizard! <br>
+✨✨If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+
+Code with joy!👩‍💻✨
+
+---
+
+
+##### License
+
+##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
