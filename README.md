@@ -10,19 +10,12 @@ Each folder includes different projects, showcasing the use of these powerful to
 I hope these projects inspire and provide valuable insights to others interested in data analysis. <br>
 Feel free to explore the repository and leave your feedback!<br>
 
-## Table of Contents
-
-- [Contents](#contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [About Me](#about-me)
-- [License](#license)
-
 
 ## Contents
 
 - **POWER_BI**: Contains various Power BI dashboard projects.
 - **TABLEAU**: Contains various Tableau dashboard projects.
+
 
 ## Installation
 
@@ -31,6 +24,7 @@ To view and interact with the dashboards locally, follow these steps:
 Clone the repository to your local machine:
 
     git clone https://github.com/Duygu-Jones/Dashboard_Projects.git
+
 
 ## Usage
 
