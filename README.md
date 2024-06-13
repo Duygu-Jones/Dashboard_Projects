@@ -1,6 +1,6 @@
-# Dashboard Projects
+# 🎯🚀Dashboard Projects
 
-## Tableau / Power Bi
+## Tableau / Power Bi🔥
 
 Welcome to the Dashboard Projects repository! 
 
