@@ -22,6 +22,8 @@ Each project is contained within its folder and includes:
 
 
 
+<br>
+
 ## 🌱 About Me 
 
 I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
@@ -39,6 +41,9 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
+<br>
 
 🎯 Boost your exploratory data analysis skills,<br>
 💡 Share your insights with the community,<br>
