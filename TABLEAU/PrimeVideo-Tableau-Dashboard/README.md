@@ -6,15 +6,15 @@
 
 ## Executive Summary:
 
-Using SQL, Python, and Tableau, I analyzed the Amazon Prime Video dataset to uncover trends and patterns in movie and TV show ratings, genres, and other attributes. 
-The analysis identified key factors influencing the success of content on the platform, such as genre popularity and director impact. 
-Based on the findings, several recommendations have been made to leverage these insights for strategic decision-making in the streaming industry.
+- Using SQL, Python, and Tableau, I analyzed the Amazon Prime Video dataset to uncover trends and patterns in movie and TV show ratings, genres, and other attributes. 
+- The analysis identified key factors influencing the success of content on the platform, such as genre popularity and director impact. 
+- Based on the findings, several recommendations have been made to leverage these insights for strategic decision-making in the streaming industry.
 
 ### Business Problem:
 
-Understanding trends and viewer preferences is crucial for streaming platforms to make informed decisions. 
-This dataset helps identify popular genres, the impact of different directors on content ratings, and other factors correlating with the success of movies and TV shows. 
-How can we use this data to predict future trends and make strategic decisions in the streaming industry?
+- Understanding trends and viewer preferences is crucial for streaming platforms to make informed decisions.
+- This dataset helps identify popular genres, the impact of different directors on content ratings, and other factors correlating with the success of movies and TV shows. 
+- How can we use this data to predict future trends and make strategic decisions in the streaming industry?
 
 <p align="center">
   <img src="https://static.poder360.com.br/2023/09/amazon-prime-video-848x477.jpeg">
@@ -43,9 +43,9 @@ How can we use this data to predict future trends and make strategic decisions i
 
 ### Results & Business Recommendation:
 
-We provided insights into content trends and viewer preferences by analyzing the Amazon Prime Video dataset. 
-Key findings include the consistent popularity of certain genres and the significant impact of specific directors on content ratings. 
-Based on these insights, we recommend the following actions:
+- We provided insights into content trends and viewer preferences by analyzing the Amazon Prime Video dataset. 
+- Key findings include the consistent popularity of certain genres and the significant impact of specific directors on content ratings. 
+- Based on these insights, we recommend the following actions:
 
 1. **Genre Focus:** Streaming platforms should invest more in consistently popular genres.
 2. **Director Collaborations:** Filmmakers should collaborate with directors who have a proven track record of successful content.
