@@ -31,15 +31,14 @@ To view the Tableau dashboards online, visit my Tableau Public profile:
 I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 
-📢I announce and share all my projects first on LinkedIn. If you would like to stay updated on my latest projects♻️💫 
+📢I announce and share all my projects first on [**my LinkedIn profile**](https://www.linkedin.com/in/duygujones/). If you would like to stay updated on my latest projects♻️💫 
 
 🌐Feel free to connect with me!
 
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
 
 🚀🎯You can find more about me and my work through the following links:
 
-- **My Portfolio Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
+- **My Portfolio Website**: [duygujones.portfolio](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
