@@ -2,7 +2,7 @@
 
 ## Tableau / Power Bi🔥
 
-Welcome to the Dashboard Projects repository! 
+Welcome to the Dashboard Projects Repository! 
 
 This repository contains various dashboard projects created using Tableau and Power BI.<br>
 Each folder includes different projects, showcasing the use of these powerful tools for data visualization and analysis.<br>
