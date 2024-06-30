@@ -1,5 +1,5 @@
 <h1 align="center">
-🦠📊 COVID-19 Analysis Dashboard 🌍📈
+🦠 COVID-19 Analysis Dashboard 🌍📈
   
 🎯Tableau Projects📉🩺
 </h1>
