@@ -1,6 +1,6 @@
 # 🎯🚀Dashboard Projects
 
-## Tableau / Power Bi🔥
+## 📉 Tableau / Power Bi🔥
 
 Welcome to the Dashboard Projects Repository! 
 
@@ -11,13 +11,13 @@ I hope these projects inspire and provide valuable insights to others interested
 Feel free to explore the repository and leave your feedback!<br>
 
 
-## Contents
+## 📃Contents
 
 - **POWER_BI**: Contains various Power BI dashboard projects.
 - **TABLEAU**: Contains various Tableau dashboard projects.
 
 
-## Installation
+## ⬇️ Installation
 
 To view and interact with the dashboards locally, follow these steps:
 
@@ -26,7 +26,7 @@ Clone the repository to your local machine:
     git clone https://github.com/Duygu-Jones/Dashboard_Projects.git
 
 
-## Usage
+## ♻️ Usage
 
 Each project is contained within its folder and includes:
 
@@ -38,6 +38,9 @@ To view the Tableau dashboards online, visit my Tableau Public profile:
 
 - **Tableau Public Profile**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
+
+## 🤝 Contributions
+We invite you to contribute! If you have ideas or discover any issues, please fork the repository and create a pull request.
 
 <br>
 
@@ -65,6 +68,7 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
+
 
 
 ##### 📜 License
