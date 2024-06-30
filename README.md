@@ -40,7 +40,8 @@ To view the Tableau dashboards online, visit my Tableau Public profile:
 
 
 ## 🤝 Contributions
-We invite you to contribute! If you have ideas or discover any issues, please fork the repository and create a pull request.
+
+Contributions are welcome! If you have any improvements, suggestions, or additional datasets and EDA projects to share, please fork the repository and create a pull request.
 
 <br>
 
@@ -51,7 +52,7 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 ♻️ You can find more about me and my work through the following links:
 
 - **Linedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.portfolio](https://duygujones.vercel.app/)
+- **Website**: [duygujones.com](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
