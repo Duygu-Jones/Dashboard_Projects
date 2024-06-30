@@ -10,6 +10,12 @@
 - The analysis identified key factors influencing the spread and impact of the virus, such as geographic location and population density. 
 - Based on the findings, several recommendations have been made to leverage these insights for strategic public health and policy decision-making.
 
+### Problem:
+
+- Understanding trends and factors influencing the spread of COVID-19 is crucial for public health officials to implement effective containment and mitigation strategies. 
+- This dataset helps identify the impact of various factors such as geographic location, population density, healthcare capacity, and social interventions on the spread and severity of the virus. 
+- How can public health officials use this data to predict future trends, allocate resources efficiently, and develop targeted strategies to manage and mitigate the pandemic?
+
 ### Tableau Public Dashboard
 
 *You can view and interact with the dashboard on my Tableau Public profile.*
@@ -17,15 +23,6 @@ Click [here](https://public.tableau.com/app/profile/duygu.jones/vizzes) to explo
 
 ![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/Covid-19-Cases-Tableau-Dashboard/Covid-19%20Cases%20Tableau%20Dashboard.png)
 
-### Problem:
-
-- Understanding trends and factors influencing the spread of COVID-19 is crucial for public health officials to implement effective containment and mitigation strategies. 
-- This dataset helps identify the impact of various factors such as geographic location, population density, healthcare capacity, and social interventions on the spread and severity of the virus. 
-- How can public health officials use this data to predict future trends, allocate resources efficiently, and develop targeted strategies to manage and mitigate the pandemic?
-
-<p align="center">
-  <img src="https://www.janusbarkod.com.tr/upload/39/coronavirus-890x390-1.png">
-</p>
 
 ### Methodology:
 
