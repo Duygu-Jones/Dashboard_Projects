@@ -16,9 +16,13 @@
 - This dataset helps identify the impact of different property attributes on house prices, the effect of location, and other factors correlating with the value of homes. 
 - How can we use this data to predict future trends and make strategic decisions in the real estate market?
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/House-Sales-Tableau-Dashboard/houseSales1.png">
-</p>
+### Tableau Public Dashboard
+
+*You can view and interact with the dashboard on my Tableau Public profile.* 
+Click [here](https://public.tableau.com/app/profile/duygu.jones/viz/KingCountyWashingtonHouseSalesDashboard_17146621211640/CountyWashingtonHouseSalesDashboard2) to explore the dashboard.
+
+![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/House-Sales-Tableau-Dashboard/House_Sales_Tableau_Dashboard.png)
+
 
 ### Methodology:
 
@@ -57,13 +61,6 @@ Based on these insights, we recommend the following actions:
 2. **Predictive Modeling:** Develop predictive models to forecast future house price trends and property values.
 3. **Continuous Monitoring:** Implement a system to update and monitor the dataset for emerging trends continuously.
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile*
-
-Click [here](https://public.tableau.com/app/profile/duygu.jones/viz/KingCountyWashingtonHouseSalesDashboard_17146621211640/CountyWashingtonHouseSalesDashboard2) to visit my Tableau Public profile and explore the dashboard.
-
-![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/House-Sales-Tableau-Dashboard/House_Sales_Tableau_Dashboard.png)
 
 ## Acknowledgements
 
