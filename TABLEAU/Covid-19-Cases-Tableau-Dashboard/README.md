@@ -12,8 +12,7 @@
 
 ### Tableau Public Dashboard
 
-*You can view and interact with the dashboard on my Tableau Public profile*
-
+*You can view and interact with the dashboard on my Tableau Public profile.*
 Click [here](https://public.tableau.com/app/profile/duygu.jones/vizzes) to explore the dashboard.
 
 ![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/Covid-19-Cases-Tableau-Dashboard/Covid-19%20Cases%20Tableau%20Dashboard.png)
