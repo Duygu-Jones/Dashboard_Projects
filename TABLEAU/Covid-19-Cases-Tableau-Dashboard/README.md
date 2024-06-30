@@ -6,9 +6,17 @@
 
 ## Executive Summary:
 
-- Using SQL, Python, and Tableau, I analyzed the COVID-19 dataset to uncover trends and patterns in cases, deaths, and other attributes across different regions. 
+- Using SQL, Python, and Tableau, I analyzed the COVID-19 dataset to uncover patterns in cases, deaths, and other attributes across different regions. 
 - The analysis identified key factors influencing the spread and impact of the virus, such as geographic location and population density. 
-- Based on the findings, several recommendations have been made to leverage these insights for strategic decision-making in public health and policy.
+- Based on the findings, several recommendations have been made to leverage these insights for strategic public health and policy decision-making.
+
+### Tableau Public Dashboard
+
+*You can view and interact with the dashboard on my Tableau Public profile*
+
+Click [here](https://public.tableau.com/app/profile/duygu.jones/vizzes) to explore the dashboard.
+
+![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/Covid-19-Cases-Tableau-Dashboard/Covid-19%20Cases%20Tableau%20Dashboard.png)
 
 ### Problem:
 
@@ -31,7 +39,6 @@
    - Building interactive dashboards to track trends over time.
 
 3. **Detailed Analysis:**
-   - Using Python for in-depth analysis and modelling.
    - Applying statistical methods to identify key factors influencing the spread and impact of COVID-19.
 
 ### Skills:
@@ -41,7 +48,7 @@
 - **Python:** Pandas, Matplotlib, Numpy, Writing Functions, Statistical Analysis
 - **Data Analysis:** Statistically analyzing and interpreting complex data sets to drive insights and decisions
 
-### Results & Business Recommendation:
+### Results & Recommendation:
 
 We provided insights into the spread and impact of COVID-19 by analyzing the dataset. 
 Key findings include the influence of geographic location and population density on the virus's spread and severity. 
@@ -49,7 +56,7 @@ Based on these insights, we recommend the following actions:
 
 1. **Targeted Interventions:** Implement targeted interventions in high-density and high-risk areas to control the spread of the virus.
 2. **Resource Allocation:** Allocate resources efficiently to regions with the highest impact to manage healthcare demands.
-3. **Public Health Strategies:** Develop public health strategies that consider the key factors influencing the virus's spread and impact.
+3. **Public Health Strategies:** Develop public health strategies considering the key factors influencing the virus's spread and impact.
 
 ### Next Steps:
 
@@ -57,13 +64,6 @@ Based on these insights, we recommend the following actions:
 2. **Predictive Modeling:** Develop predictive models to forecast future trends in COVID-19 cases and outcomes.
 3. **Continuous Monitoring:** Implement a system to update and monitor the dataset for emerging trends continuously.
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile*
-
-Click [here](https://public.tableau.com/app/profile/duygu.jones/vizzes) to visit my Tableau Public profile and explore the dashboard.
-
-![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/COVID19-Tableau-Dashboard/COVID19_Tableau_Dashboard.png)
 
 ## Acknowledgements
 
