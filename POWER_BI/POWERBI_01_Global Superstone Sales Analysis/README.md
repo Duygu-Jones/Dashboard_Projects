@@ -1,5 +1,7 @@
 # 🌍 Global Superstore Sales Power-BI Data Analysis 🔥🚀
 
+## Overview
+
 This Power-BI Dashboard project presents a comprehensive analysis of the sales data from the Global Superstore, focusing on key metrics and insights across different dimensions. 
 The analysis is divided into several sections, each providing a detailed view of various aspects of the data.
 
@@ -52,6 +54,7 @@ Used Power BI to clean and transform the data. This process involved organizing 
 
 <br>
 
+### Thank you.
 <p align="center">
   <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/Analysis-End.png">
 </p>
