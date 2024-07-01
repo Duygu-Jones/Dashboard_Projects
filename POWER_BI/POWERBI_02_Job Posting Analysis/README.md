@@ -1,75 +1,85 @@
-# 🌍 Global Superstore Sales Power-BI Data Analysis 🔥🚀
+# 🌍 Data Science Job Postings Power-BI Data Analysis 🔍🧑‍🔬
 
 ## Overview
 
-This Power-BI Dashboard project presents a comprehensive analysis of the sales data from the Global Superstore, focusing on key metrics and insights across different dimensions. 
-The analysis is divided into several sections, each providing a detailed view of various aspects of the data.
+This Power-BI Dashboard project provides a comprehensive analysis of job postings within the data science field, focusing on key metrics and insights across various dimensions. 
+The analysis is divided into several sections, each offering a detailed view of different aspects of the data.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/01-Overview%20of%20Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/01-Analysis-Overview.png">
 </p>
 
 ## About the Dataset
-The dataset includes sales, order info, customer data, and shipping details. Originally intended for Pentaho DI Kettle, it was perfect for sales simulation training, segmentation, customer analytics, and clustering.
+
+The dataset includes job postings for data science roles, collected over multiple years. It contains detailed information on job titles, locations, position levels, required skills, and compensation. 
+This dataset aims to provide insights into the job market dynamics for data science roles, helping job seekers, employers, and educational institutions.
 
 ## Problem Statement
 
-Retail businesses must understand customer behaviour and product trends to optimize operations and enhance satisfaction. This project aims to answer the following key questions:
-1.	What is the number of sales over the past several years?
-2.	Which month has the most sales?
-3.	Which country has the most sales?
-4.	What types of products are ordered the most?
-5.	What are the top 5 best-selling products?
+Understanding the dynamics of job postings in the data science field is crucial for various stakeholders. This project aims to answer the following key questions:
+1. What are the most in-demand job titles in data science?
+2. Which locations have the highest number of job postings?
+3. What trends are observable in job postings over the years?
+4. What skills are most frequently required for data science roles?
+5. What is the average pay for different job positions?
 
 ## Data Cleaning & Transformation
 
-Used Power BI to clean and transform the data. This process involved organizing disorganized data into a clean format suitable for analysis.
-
+Power BI was used to clean and transform the data. This process involved organizing the data into a structured format suitable for analysis, removing duplicates, and handling missing values to ensure accurate insights.
 
 ## Data Visualization
-### Page 1: Product-Based Analysis:
--	Sales Trends: Total sales amounted to $9.46M, a 13% increase from the previous period.
--	Product Categories: Technology led in sales ($3.54M), followed by Furniture ($3.09M) and Office Supplies ($2.83M).
-- Top Products: The top 10 sub-categories by profit include Copiers, Phones, and Chairs.
+
+### Page 1: Job-Based Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/02-Product-Based-Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/02-Job-Based%20Analysis.png">
+</p>
+
+- **Top Job Titles**: Data Engineer leads with 3,462 postings, followed by Business Analyst, Data Scientist, and Data Analyst.
+- **Average Pay**: Data Scientist roles offer the highest average salary at $146,900, reflecting their specialized skills.
+- **Experience Levels**: Executive positions require the most experience (14.29 years), while internships provide entry-level opportunities with minimal experience required.
+
+<br>
+
+### Page 2: Skills-Based Analysis
+
+<p align="center">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/03-Skills-Based%20Analysis.png">
+</p>
+
+- **Total Number of Job Skills**: 117 distinct skills, emphasizing the diverse expertise required in the field.
+- **Top Skills by Job Title**: Key skills include SQL, Tableau, Unix/Linux, and data warehousing, varying by specific job titles.
+
+<br>
+
+### Page 3: Sectoral Analysis
+
+<p align="center">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/04-Industry-Based%20Analysis.png">
+</p>
+
+- **Industry Insights**: Detailed analysis of job postings by industry, highlighting the demand across various sectors.
+- **Geographic Distribution**: The majority of job postings are concentrated in the USA, particularly in tech hubs like San Francisco, New York, Chicago, and Boston.
+- **Pay Analysis**: The average maximum pay is $160,000, with significant variation across industries and locations.
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/Analysis-END.png">
 </p>
 
 <br>
 
-### Page 2: Customer Insights: Total sales reached $12.64M, with the Consumer segment leading in sales (51.48%).
+### Conclusion
 
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/03-Customer-Based-Analysis.png">
-</p>
+This dashboard provides valuable insights into the data science job market, helping job seekers align their skills with market demands and employers to strategize their hiring processes effectively. The continuous growth and high compensation in the field highlight the thriving opportunities in data science.
 
-<br>
+## Recommendations
 
-### Page 3: Geographical Distribution: Sales were highest in Western Europe, followed by Central America and Oceania.
-
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/04-Region-Based-Analysis.png">
-</p>
-
-<br>
-
-### Thank you.
-<p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/Analysis-End.png">
-</p>
-
-<br>
-
-### Recommendations
-
-1.	Sales Trend Analysis: Regular analysis of sales trends over multiple years can help understand long-term changes and their influencing factors.
-2.	Monthly Sales Insights: Identifying peak sales months can aid in planning targeted promotions and marketing activities.
-3.	Focus on High-Sales Regions: Tailoring marketing strategies to high-sales regions can enhance sales effectiveness.
-4.	Product Improvement: Insights on popular products can guide product development and improvement efforts.
-5.	Leverage Best-Sellers: Focusing on best-selling products can optimize marketing and development resources.
-
-This project has been a valuable learning experience. I look forward to receiving feedback and continuing to develop my data analysis skills.
+1. **Focus on In-Demand Roles**: Prioritize acquiring skills for high-demand roles like Data Engineer and Data Scientist.
+2. **Geographic Flexibility**: Consider relocating or working remotely in top tech hubs for better opportunities.
+3. **Skill Development**: Invest in learning key skills such as SQL, Tableau, and Unix/Linux to enhance employability.
+4. **Monitor Trends**: Keep an eye on emerging trends in job postings to stay ahead in the competitive market.
 
 
 
