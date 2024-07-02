@@ -6,7 +6,7 @@ This Power-BI Dashboard project presents a comprehensive analysis of the sales d
 The analysis is divided into several sections, each providing a detailed view of various aspects of the data.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/01-Overview%20of%20Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/01-overview%20of%20Analysis.png">
 </p>
 
 ## About the Dataset
@@ -27,13 +27,14 @@ Used Power BI to clean and transform the data. This process involved organizing 
 
 
 ## Data Visualization
+
 ### Page 1: Product-Based Analysis:
 -	Sales Trends: Total sales amounted to $9.46M, a 13% increase from the previous period.
 -	Product Categories: Technology led in sales ($3.54M), followed by Furniture ($3.09M) and Office Supplies ($2.83M).
 - Top Products: The top 10 sub-categories by profit include Copiers, Phones, and Chairs.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/02-Product-Based-Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/02-Product-Based-Analysis.png">
 </p>
 
 <br>
@@ -41,7 +42,7 @@ Used Power BI to clean and transform the data. This process involved organizing 
 ### Page 2: Customer Insights: Total sales reached $12.64M, with the Consumer segment leading in sales (51.48%).
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/03-Customer-Based-Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/03-Customer-Based-Analysis.png">
 </p>
 
 <br>
@@ -49,14 +50,14 @@ Used Power BI to clean and transform the data. This process involved organizing 
 ### Page 3: Geographical Distribution: Sales were highest in Western Europe, followed by Central America and Oceania.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/04-Region-Based-Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/04-Region-Based-Analysis.png">
 </p>
 
 <br>
 
 ### Thank you.
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global%20Superstone%20Sales%20Analysis/Analysis-End.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_01_Global_Superstore_Sales_Analysis/Analysis-End.png">
 </p>
 
 <br>
