@@ -6,7 +6,7 @@ This Power-BI Dashboard project provides a comprehensive analysis of job posting
 The analysis is divided into several sections, each offering a detailed view of different aspects of the data.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/01-Analysis-Overview.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/01-Analysis-Overview.png">
 </p>
 
 ## About the Dataset
@@ -32,7 +32,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 1: Job-Based Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/02-Job-Based%20Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/02-Job-Based%20Analysis.png">
 </p>
 
 - **Top Job Titles**: Data Engineer leads with 3,462 postings, followed by Business Analyst, Data Scientist, and Data Analyst.
@@ -44,7 +44,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 2: Skills-Based Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/03-Skills-Based%20Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/03-Skills-Based%20Analysis.png">
 </p>
 
 - **Total Number of Job Skills**: 117 distinct skills, emphasizing the diverse expertise required in the field.
@@ -55,7 +55,7 @@ Power BI was used to clean and transform the data. This process involved organiz
 ### Page 3: Sectoral Analysis
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/04-Industry-Based%20Analysis.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/04-Industry-Based%20Analysis.png">
 </p>
 
 - **Industry Insights**: Detailed analysis of job postings by industry, highlighting the demand across various sectors.
@@ -63,9 +63,9 @@ Power BI was used to clean and transform the data. This process involved organiz
 - **Pay Analysis**: The average maximum pay is $160,000, with significant variation across industries and locations.
 
 <br>
-
+### Thank you...
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job%20Posting%20Analysis/Analysis-END.png">
+  <img src="https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/POWER_BI/POWERBI_02_Job_Posting_Analysis/Analysis-END.png">
 </p>
 
 <br>
