@@ -1,7 +1,7 @@
 <h1 align="center">
-🦠 COVID-19 Analysis Dashboard 🌍📈
+🦠 COVID-19 Analysis  🌍📈
   
-🎯Tableau Projects📉🩺
+🎯Dashboard Projects📉🩺
 </h1>
 
 ## Executive Summary:
@@ -16,33 +16,6 @@
 - This dataset helps identify the impact of various factors such as geographic location, population density, healthcare capacity, and social interventions on the spread and severity of the virus. 
 - How can public health officials use this data to predict future trends, allocate resources efficiently, and develop targeted strategies to manage and mitigate the pandemic?
 
-### Tableau Public Dashboard
-
-*You can view and interact with the dashboard on my Tableau Public profile.*
-Click [here](https://public.tableau.com/app/profile/duygu.jones/vizzes) to explore the dashboard.
-
-![](https://github.com/Duygu-Jones/Dashboard_Projects/blob/main/TABLEAU/Covid-19-Cases-Tableau-Dashboard/Covid-19%20Cases%20Tableau%20Dashboard.png)
-
-
-### Methodology:
-
-1. **Data Extraction and Cleaning:**
-   - SQL queries to extract relevant data from the database.
-   - Cleaning and transforming the data to ensure accuracy and consistency.
-
-2. **Data Visualization:**
-   - Creating visualizations in Tableau to represent the distribution of COVID-19 cases, deaths, and other attributes.
-   - Building interactive dashboards to track trends over time.
-
-3. **Detailed Analysis:**
-   - Applying statistical methods to identify key factors influencing the spread and impact of COVID-19.
-
-### Skills:
-
-- **SQL:** CTEs, Joins, Case, Aggregate Functions
-- **Tableau:** Data Visualization, Interactive Dashboards, Data Modeling
-- **Python:** Pandas, Matplotlib, Numpy, Writing Functions, Statistical Analysis
-- **Data Analysis:** Statistically analyzing and interpreting complex data sets to drive insights and decisions
 
 ### Results & Recommendation:
 
@@ -61,35 +34,44 @@ Based on these insights, we recommend the following actions:
 3. **Continuous Monitoring:** Implement a system to update and monitor the dataset for emerging trends continuously.
 
 
-## Acknowledgements
+## 📍Acknowledgements
 
 We acknowledge the sources for providing the COVID-19 data used in this dataset. 
 This dataset is compiled for analytical and educational purposes.
 
-## About Me
+## 🤝Contributing
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. <br>
+Contributions are welcome! If you have any improvements, suggestions, or additional datasets and EDA projects to share, please fork the repository and create a pull request.
 
-You can find more about me and my work through the following links:
+<br>
 
-- **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+## 🌱About Me 
+
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+
+♻️ You can find more about me and my work through the following links:
+
+- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Website**: [duygujones.com](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 - **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
-Feel free to connect with me!<br>
+🌐Feel free to connect with me!
 
-🎯Boost your exploratory data analysis skills,<br> 
-💡Share your insights with the community,<br>
-👩‍💻Become a data wizard!<br>
-✨If you find this repository helpful, don't forget to give it a star✨.<br>
+<br>
 
-Happy Trails!👩‍💻✨
+🎯 Boost your exploratory data analysis skills,<br>
+💡 Share your insights with the community,<br>
+✨ If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+
+Code with joy! 👩‍💻✨
 
 ---
 
-##### License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+##### 📜 License
+
+##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
