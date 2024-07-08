@@ -7,6 +7,8 @@
 
 I hope these projects inspire and provide valuable insights to others interested in data analysis and visualization. Feel free to explore the repository and leave your feedback!
 
+**To view the Tableau dashboards online, visit my Tableau Public profile: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
+
 <p align="center">
   <img src="https://www.tableau.com/sites/default/files/2024-02/Cloud%20hero%20682x437.png">
 </p>
@@ -20,9 +22,6 @@ Each project is contained within its folder and includes:
 - The dataset(s) used in the analysis.
 - A README file detailing the project's objective, methodology, and findings.
 
-To view the Tableau dashboards online, visit my Tableau Public profile:
-
-- **Tableau Public Profile**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
 <br>
 
