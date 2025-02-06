@@ -8,7 +8,7 @@
 I hope these projects inspire and provide valuable insights to others interested in data analysis and visualization. Feel free to explore the repository and leave your feedback!
 
 <p align="center">
-  <img src="https://sranalytics.io/wp-content/uploads/2020/11/power-bi-dashboard-gif.gif">
+  <img src="https://static.wixstatic.com/media/f8eb0c_a6ce680ecff943df817679a09a99adb9~mv2.gif">
 </p>
 
 
